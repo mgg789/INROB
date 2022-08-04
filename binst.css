@@ -1,0 +1,188 @@
+p{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: medium;
+    margin: 0;
+    transition: 1s;
+    float: left;
+    }
+    
+    a{
+        color: black;
+        text-decoration-line: none;
+        transition: 1s
+    }
+    
+    body{
+        background-color: azure;
+    }
+    
+    .hes{
+        width: 100%;
+        height: 80px;
+        margin: 0px;
+        border-radius: 15px;
+        background-color: rgb(0, 162, 255);
+    }
+    
+    .logo{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: xx-large;
+    float: left;
+    }
+    
+    .logoru{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: xx-large;
+    float: left;
+    color: rgb(230, 62, 62);
+    }
+    
+    h1{
+        margin: 0px;
+    }
+    
+    h2{
+        margin: 0px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    
+    h3{
+        margin: 0px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    
+    .mainlogo{
+        float: left;
+        padding-top: 1.2% ;
+        padding-left: 4% ;
+        margin-right: 100px;
+    }
+    
+    .menu{
+        
+        padding-top: 20px;
+    }
+    
+    .point{
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        float: left;
+        margin-left: 30px;
+        font-weight: 500;
+        padding-top: 10px;
+    }
+    
+    .point:hover{
+        color: rgb(230, 62, 62);
+        font-size: larger;
+        transition:  0.6s;
+        padding-top: 7px;
+    }
+
+    .news{
+    
+        width: 100%;
+        height: 550px;   
+        margin-top: 40px;
+    }
+    
+    .newtxt:hover{
+        font-size: large;
+        color: rgb(14, 13, 13);
+        transition: 1s;
+        margin-top: 5px ;
+    }
+    
+    
+    .minititle1{
+        margin-left:44.5% ;
+    }
+
+    .minititle2{
+        margin-left:46.5% ;
+    }
+    
+    
+    .newicon{
+        width: 100px;
+        float: left;
+        margin-left: 18px;
+        padding-right: 20px;
+    }
+
+    .newicon2{
+        width: 100px;
+        float: left;
+        margin-left: 82px;
+        padding-right: 20px;
+    }
+    
+    .new{
+        float: left;
+        width: 200px;
+        height: 100px;
+        margin-left: 215px;
+        padding-left: 15px;
+        margin-top: 80px;
+        transition: 1s;
+        background-color: rgb(235, 235, 235);
+        border-radius: 15px;
+    }
+    
+    .new:hover{
+        background-color: rgb(0, 162, 255);
+        border-color: black;
+        border-radius: 25px;
+        transition: 1s;
+        margin-top: 70px;
+    }
+
+    .new2{
+        float: left;
+        width: 330px;
+        height: 130px;
+        margin-left: 205px;
+        padding-left: 15px;
+        margin-top: 80px;
+        transition: 1s;
+        background-color: rgb(235, 235, 235);
+        border-radius: 15px;
+    }
+    
+    .new2:hover{
+        background-color: rgb(0, 162, 255);
+        border-color: black;
+        border-radius: 25px;
+        transition: 1s;
+        margin-top: 70px;
+
+    }
+
+    .info{
+        width: 50%;
+        padding-left: 27%;
+        padding-top: 2%;
+    }
+
+
+    .ruletitle{
+        margin-left: 20px;
+    }
+    footer{
+        width: 100%;
+        height: 60px;
+        background-color: rgb(0, 162, 255);
+        border-radius: 15px;
+        transition: 1s;
+        margin-top: 450px;
+    }
+    footer:hover{
+        margin-top: 30px;
+        background-color: rgb(235, 235, 235);
+        transition: 1s;
+        margin-top: 410px;
+    }
+    
+    .fotC{
+        margin-top: 35px;
+        margin-left: 500px;
+    }

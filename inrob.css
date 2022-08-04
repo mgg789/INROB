@@ -1,0 +1,272 @@
+p{
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: medium;
+margin: 0;
+transition: 1s;
+float: left;
+}
+
+a{
+    color: black;
+    text-decoration-line: none;
+    transition: 1s
+}
+
+body{
+    background-color: azure;
+}
+
+.hes{
+    width: 100%;
+    height: 80px;
+    margin: 0px;
+    border-radius: 15px;
+    background-color: rgb(0, 162, 255);
+}
+
+.logo{
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: xx-large;
+float: left;
+}
+
+.logoru{
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: xx-large;
+float: left;
+color: rgb(230, 62, 62);
+}
+
+
+.logos{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 200px;
+    float: left;
+    
+    }
+    
+.logosru{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 200px;
+    float: left;
+    color: rgb(230, 62, 62);
+    }
+
+    .mainslogo{
+        float: left;
+        padding-top: 1.2% ;
+        padding-left: 4% ;
+        margin-left: 35%;
+        margin-top: 100px;
+    }
+
+h1{
+    margin: 0px;
+}
+
+h2{
+    margin: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+h3{
+    margin: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.mainlogo{
+    float: left;
+    padding-top: 1.2% ;
+    padding-left: 4% ;
+    margin-right: 100px;
+}
+
+.menu{
+    float: left;
+    padding-top: 20px;
+}
+
+.point{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    float: left;
+    margin-left: 30px;
+    font-weight: 500;
+    padding-top: 10px;
+}
+
+.point:hover{
+    color: rgb(230, 62, 62);
+    font-size: larger;
+    transition:  0.6s;
+    padding-top: 7px;
+}
+
+
+
+.news{
+    
+    width: 100%;
+    height: 550px;   
+    margin-top: 40px;
+}
+
+.newtxt:hover{
+    font-size: large;
+    color: rgb(14, 13, 13);
+    transition: 1s;
+    margin-top: 5px ;
+}
+
+
+.minititle1{
+    margin-left:47.5% ;
+}
+
+
+
+.newicon{
+    width: 60px;
+    float: left;
+    margin-top: 40px;
+    padding-right: 20px;
+}
+
+.new{
+    float: left;
+    width: 400px;
+    height: 100px;
+    margin-left: 50px;
+    margin-top: 80px;
+    transition: 1s;
+}
+
+.newtxt:hover{
+    margin-top: 5px;
+    margin-left: 3px;
+    transition: 1s;
+}
+
+.mnt{
+    padding-left: 190px;
+}
+.info{
+    margin-left: 60px;
+}
+
+
+
+.minititle2{
+    margin-left:43% ;
+    padding-top: 22px;
+}
+
+.etitle{
+    padding-left: 80px;
+}
+.met{
+    padding-left: 160px;
+}
+.point2{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 0px;
+    font-weight: 500;
+}
+.point2:hover{
+    color: rgb(230, 62, 62);
+}
+
+.events{
+    background-color: rgb(235, 235, 235) ;
+    width: 100%;
+    height: 550px;   
+    border-radius: 15px;
+    transition: 1s;
+}
+
+.events:hover{
+    background-color: rgb(0, 162, 255);
+    border-color: black;
+    border-radius: 25px;
+    transition: 1s;
+    margin-top: 12px;
+}
+
+.minititle3{
+    margin-left:47% ;
+    padding-top: 22px;
+}
+
+.bgh{
+    float: left;
+}
+
+.biotxt{
+    width: 30%;
+    margin-left: 90px;
+    margin-top: 20px;
+    transition: 2s;
+}
+
+.mainlogoyu{
+    float: left;
+    padding-top: 3.3% ;
+    padding-left: 31% ;
+    margin-right: 100px;
+    transition: 1s;
+}
+.bio{
+    background-color: rgb(235, 235, 235);
+    width: 100%;
+    height: 350px; 
+    border-radius: 15px ;  
+    transition: 2s;
+    margin-top: 15px;
+}
+
+.bio:hover{
+    background-color: rgb(0, 162, 255);
+    border-color: black;
+    border-radius: 25px;
+    transition: 1s;
+    font-size: larger;
+    margin-top: 12px;
+}
+
+.mainlogoyu:hover{
+    transition: 1s;
+    font-size: x-large;
+}
+
+.biotxt:hover{
+    width: 35%;
+    transition: 1s;
+}
+
+.bio p:hover{
+    transition: 1s;
+    font-size: large;
+}
+
+.bio p{
+    transition: 1s;
+}
+
+footer{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(0, 162, 255);
+    border-radius: 15px;
+    transition: 1s;
+    margin-top: 40px;
+}
+footer:hover{
+    margin-top: 30px;
+    background-color: rgb(235, 235, 235);
+    transition: 1s;
+}
+
+.fotC{
+    margin-top: 35px;
+    margin-left: 500px;
+}
+

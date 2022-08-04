@@ -1,0 +1,2 @@
+RewriteEngine on
+ErrorDocument 404 file:///C:/Users/Михаил/Desktop/INROBOT/404.html
